@@ -1,4 +1,4 @@
-![alt text](http://img15.hostingpics.net/pics/465482connectiosmall.png "Connect.IO")
+![alt text](http://img11.hostingpics.net/pics/219366linkiosmall.png "Connect.IO")
 
 #Partie serveur
 
