@@ -2,6 +2,8 @@
   "name": "connect.IO",
   "version": "1.0.0",
   "dependencies": {
+    "log": "^1.4.0",
+    "node-schedule": "^0.3.0",
     "sizeof": "^1.0.0",
     "socket.io": "^1.3.7"
   }
