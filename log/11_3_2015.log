@@ -1,0 +1,13 @@
+[Tue Nov 03 2015 20:50:22 GMT+0100 (Paris, Madrid)] DEBUG [user1] connected
+[Tue Nov 03 2015 20:50:22 GMT+0100 (Paris, Madrid)] DEBUG [user1] disconnected
+[Tue Nov 03 2015 20:50:22 GMT+0100 (Paris, Madrid)] DEBUG [efzefz1] connected
+[Tue Nov 03 2015 20:50:22 GMT+0100 (Paris, Madrid)] DEBUG [efzefz1] disconnected
+[Tue Nov 03 2015 20:50:23 GMT+0100 (Paris, Madrid)] DEBUG [user1] connected
+[Tue Nov 03 2015 20:50:24 GMT+0100 (Paris, Madrid)] DEBUG [user1] joined room [abcd]
+[Tue Nov 03 2015 20:50:27 GMT+0100 (Paris, Madrid)] DEBUG [user1zefzef] connected
+[Tue Nov 03 2015 20:50:28 GMT+0100 (Paris, Madrid)] DEBUG [user1zefzef] joined room [abcd]
+[Tue Nov 03 2015 20:51:11 GMT+0100 (Paris, Madrid)] DEBUG [user1zefzef] disconnected
+[Tue Nov 03 2015 20:51:27 GMT+0100 (Paris, Madrid)] DEBUG [user1] disconnected
+[Tue Nov 03 2015 20:51:31 GMT+0100 (Paris, Madrid)] DEBUG [user1] connected
+[Tue Nov 03 2015 20:51:31 GMT+0100 (Paris, Madrid)] DEBUG [user1] joined room [abcd]
+[Tue Nov 03 2015 20:51:34 GMT+0100 (Paris, Madrid)] DEBUG [user1] disconnected
