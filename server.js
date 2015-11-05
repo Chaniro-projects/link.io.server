@@ -3,7 +3,7 @@ var currentLogFile = "";
 var fs = require('fs');
 
 var server = http.createServer(function(req, res) {
-    fs.readFile('./log/' + currentLogFile, 'utf-8', function(error, content) {
+    fs.readFile(__dirname + '/log/' + currentLogFile, 'utf-8', function(error, content) {
         res.writeHead(200, {"Content-Type": "text/plain"});
         res.end(content);
     });
