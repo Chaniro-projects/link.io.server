@@ -10,7 +10,7 @@ var server = http.createServer(function(req, res) {
 
 });
 
-var port = 8080;
+var port = 80;
 
 var io = require('socket.io')(server);
 var LinkIO = require("./lib/link.io.js")(io, function(fileName) {
