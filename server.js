@@ -16,7 +16,6 @@ args.forEach(function(argv) {
     if(argv.indexOf("port=") == 0)
         port = parseInt(argv.split('=')[1]);
 });
-console.log(port);
 
 var io = require('socket.io')(server);
 var LinkIO = require("./lib/link.io.js")(io, function(fileName) {
